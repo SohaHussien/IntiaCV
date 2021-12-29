@@ -1,1 +1,1 @@
-# IntiaCV
+# IntialCV
